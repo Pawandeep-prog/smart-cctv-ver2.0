@@ -10,7 +10,7 @@ tkinter
 
 installed to run these scripts properly
 
-video : https://youtu.be/vNeaJacy99s
+video : https://youtu.be/L1ZQzdT4mEA
 
 thanks ;) 
 
